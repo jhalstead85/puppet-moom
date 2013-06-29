@@ -6,7 +6,6 @@
 
 ```puppet
 include moom
-}
 ```
 
 ## Required Puppet Modules
